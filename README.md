@@ -8,12 +8,16 @@ The basic principle of demonstration matrix
  
  ---
 
-### 目录 截图
-初等变换
-![Image](images/Screenshot_image.png)
-hsl空间变换
-![Image](images/Screenshot_hsl.png)
-颜色空间变换
-![Image](images/Screenshot_color.png)
+###  截图
 
-    
+初等变换
+
+![Image](images/Screenshot_image.png)
+
+hsl空间变换
+
+![Image](images/Screenshot_hsl.png)
+
+颜色空间变换
+
+![Image](images/Screenshot_color.png)
